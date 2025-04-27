@@ -47,7 +47,7 @@ A modern, interactive web-based implementation of the classic Tic-Tac-Toe game. 
 
 ## Project Structure
 
-```
+```text
 tic-tac-toe/
 ├── index.html      # Main HTML structure
 ├── styles.css      # Styling and animations
@@ -57,6 +57,7 @@ tic-tac-toe/
 ## Browser Compatibility
 
 The game works on all modern browsers including:
+
 - Chrome
 - Firefox
 - Safari
@@ -64,4 +65,4 @@ The game works on all modern browsers including:
 
 ## License
 
-This project is open source and available for personal and educational use. 
+This project is open source and available for personal and educational use.
